@@ -1,4 +1,4 @@
-# [A-B_Testing Analysys — Online_Shop](https://nbviewer.org/github/cheziman/Product_range_analysis/blob/main/product_range_CheziM_p100.ipynb)
+# [A-B_Testing Analysis — Online_Shop](https://nbviewer.org/github/cheziman/Product_range_analysis/blob/main/product_range_CheziM_p100.ipynb)
 [click here to open the notebook using nbviewer (recommended)](https://nbviewer.org/github/cheziman/Data_Analysis_projects/blob/main/AB_Testing_analysis/Notebook/CheziM_P100_AB_Testing.ipynb)
 # Description:
 
