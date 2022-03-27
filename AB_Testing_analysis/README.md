@@ -5,7 +5,7 @@
 This project is continuing and exmanining the work of a previous analyst who has launched an A/B test of a new recommendation system for an international online store. But then one clear day - in the middle of everything, he decided to quit and start a watermelon farm in brazil (!). 
 They left only the technical specifications and the test results
 
-## Data structure
+# Data structure
 The data consists of four csv files:
 1. **`ab_project_marketing_events.csv`** — the calendar of marketing events for 2020
 - Columns:
@@ -27,7 +27,7 @@ The data consists of four csv files:
 
 # Project summary and conclusions:
 
-## **Data description and processing**
+### **Data description and processing**
 - The data was a big soup of 4 different tables containing 2 different tests.
 - It was cleaned of 547 users who were assigned to more than one group (A + A users were spared- they have not seen changes either way).
 - Then a new table was merged from the data to form a table only with the users and the information we need for the recommendation system test.
@@ -37,20 +37,20 @@ The data consists of four csv files:
 - This left us with 2934 users in total, group A with 2279, and group B with 655 users.
     - In expectation, the test needed 6000 users.
 
-## **User recruitment**
+### **User recruitment**
 - On the first day of recruitment (Dec-07), group B had 20% users sign ups (group A had 5%).
 - Group A had 15% and 14% signups on Dec21st, and Dec14th.
 - The ratio of daily signups between the groups is very different. Which may distort the user behaviour analysis, daily recruiting to the groups should be similar in ratio if not in quantities to ensure they are exposed equally to different factors during the test. In our case it wasn't so.
 - Most of the users signed up on the second week of the recruitment period.
 - There are very few users in group B to test upon - especially at the last couple of days.
 
-## **User activity and behaviour**
+### **User activity and behaviour**
 - In the first week of the test, the traffic was low, 122 and 119 users for group A and B, it was gradually growing until Dec21st.
 - Dec 21st was the last day of recruiting users. This day also had the highest amount of traffic: in group A 747 users, and in B 141.
 - After Dec21st, the traffic was gradually falling again: on Dec29, group B had 26 users actvie and group A had 172
 - Android device is used by 44% and 47% of the users of groups A and B. Iphone and PC are about half of it (20% and 26%) and Mac has the smallest share of 9%.
 
-## **Purchasing**
+### **Purchasing**
 - A total of 925 out of 2934 users (31.53%) made a purchase at least once.
 - Overall, 2633 purchases were made by all users. 
     - In group A: 734 users made a purchase with a 32.21% purchase rate within the group.
@@ -59,7 +59,7 @@ The data consists of four csv files:
     - And then continued purchasing for up to 18 days later.
 - It is important to consider that maybe some users stopped purchasing because the test period was over.
 
-## **Recommendation system test**
+### **Recommendation system test**
 The test was planned as such: (comments bellow)
 - Test name: recommender_system_test
 - Groups: А (control), B (new payment funnel)
@@ -74,7 +74,7 @@ The test was planned as such: (comments bellow)
 - Expected number of test participants: 6000
     - ***We didn't even reach the 3000 correctly chosen users.***
 
-## **Statistical significance in difference between the test groups**
+### **Statistical significance in difference between the test groups**
 - A z-test was used to check whether the difference.
 - With alpha level of 0.05, it was found safe to assume there is no statistical significant difference between the groups for the following events:
     - **login:** with pvalue of 0.062, a little higher than the alpha level.
