@@ -1,5 +1,5 @@
-# [A-B_Testing Analysis — Online_Shop](https://nbviewer.org/github/cheziman/Product_range_analysis/blob/main/product_range_CheziM_p100.ipynb)
-[click here to open the notebook using nbviewer (recommended)](https://nbviewer.org/github/cheziman/Product_range_analysis/blob/main/product_range_CheziM_p100.ipynb)
+# [A-B_Testing Analysis — Online_Shop](https://nbviewer.org/github/cheziman/Data_Analysis_projects/blob/main/AB_Testing_analysis/CheziM_P100_AB_Testing.ipynb)
+[click here to open the notebook using nbviewer (recommended)](https://nbviewer.org/github/cheziman/Data_Analysis_projects/blob/main/AB_Testing_analysis/CheziM_P100_AB_Testing.ipynb)
 # Description:
 
 This project is continuing and exmanining the work of a previous analyst who has launched an A/B test of a new recommendation system for an international online store. But then one clear day - in the middle of everything, he decided to quit and start a watermelon farm in brazil (!). 
