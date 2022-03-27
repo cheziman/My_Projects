@@ -7,27 +7,23 @@ They left only the technical specifications and the test results
 
 ## Data structure
 The data consists of four csv files:
-1. ab_project_marketing_events.csv — the calendar of marketing events for 2020
+1. **`ab_project_marketing_events.csv`** — the calendar of marketing events for 2020
 - Columns:
-  - `name` — the name of the marketing event. | `regions` — regions where the ad campaign will be held.
-  - `start_dt` — campaign start date. | `finish_dt` — campaign end date.
+  - **`name`** — the name of the marketing event. | **`regions`** — regions where the ad campaign will be held.
+  - **`start_dt`** — campaign start date. | **`finish_dt`** — campaign end date.
 
-2. final_ab_new_users_upd.csv — all users who signed up in the online store from December 7 to 21, 2020
+2. `**final_ab_new_users_upd.csv**` — all users who signed up in the online store from December 7 to 21, 2020
 - Columns:
-  - `user_id` | `first_date` — sign-up date. | `region` | **`device`** — device used to sign up.
+  - **`user_id`** | **`first_date`** — sign-up date. | **`region`** | **`device`** — device used to sign up.
 
-3. final_ab_events_us.csv — all events of the new users within the period from December 7, 2020 through January 1, 2021
+3. **`final_ab_events_us.csv`** — all events of the new users within the period from December 7, 2020 through January 1, 2021
 - Columns:
-  - `user_id`.
-  - `event_dt` — event date and time.
-  - `event_name` — event type name.
-  - `details` — additional data on the event (for instance, the order total in USD for purchase events).
+  - **`user_id`** | **`event_dt`** — event date and time | **`event_name`** — event type name.
+  - **`details`** — additional data on the event (for instance, the order total in USD for purchase events).
 
-4. final_ab_participants_upd.csv — table containing test participants
+4. **`final_ab_participants_upd.csv`** — table containing test participants
 - Columns:
-  - `user_id`.
-  - `ab_test` — test name.
-  - `group` — the test group the user belonged to.
+  - **`user_id`** | **`ab_test`** — test name | **`group`** — the test group the user belonged to.
 
 # Project summary and conclusions:
 
