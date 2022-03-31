@@ -18,8 +18,6 @@ The stacked bars shows:
 
 ---
 
----
-
 ### Daily signups per control group (percentage)
 This graph shows how many users on each of the control groups signed up on each day
 
