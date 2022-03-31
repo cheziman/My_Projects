@@ -19,7 +19,7 @@ And more and more
 # Favorite graph taken from the project
 a couple more can be seen in the "images" folder
 
-![prod_rev-quant_dist.jpeg](prod_rev-quant_dist.jpeg)
+![prod_rev-quant_dist.jpeg](images/prod_rev-quant_dist.jpeg)
 
 
 # Project summary and Conclusions
