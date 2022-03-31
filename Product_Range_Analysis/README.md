@@ -16,6 +16,12 @@ The goal is to perform a prodocut range analysis on the data following the decom
 
 And more and more
 
+# Favorite graph taken from the project
+a couple more can be seen in the "images" folder
+
+![prod_rev-quant_dist.jpeg](prod_rev-quant_dist.jpeg)
+
+
 # Project summary and Conclusions
 After cleaning and processing the data, there are 3,779 products spread in 9 categories, and 4,333 unique customer ids, whom together with the unregistered customers, purchased in 19,769 invoices, for total revenue of 9,984,772 in roughly one year (Nov-29 2018 to Dec-07 2019).
 
