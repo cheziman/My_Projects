@@ -17,6 +17,10 @@ The goal is to perform a prodocut range analysis on the data following the decom
 And more and more
 
 # Favorite graph taken from the project
+- This graph shows the correlation between revenue and quantity sold of products. But not only.
+- ARPU stands for average revenue per unit (avg price), the bigger the dot the larger the price.
+- Category is resembled by color.
+
 a short explanation and a couple more graphs can be seen in the ["images" folder](https://github.com/cheziman/My_Projects/tree/main/Product_Range_Analysis/images).
 
 ![prod_rev-quant_dist.jpeg](images/prod_rev-quant_dist.jpeg)
