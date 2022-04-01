@@ -21,7 +21,7 @@ And more and more
 - ARPU stands for average revenue per unit (avg price), the bigger the dot the larger the price.
 - Category is resembled by color.
 
-a short explanation and a couple more graphs can be seen in the ["images" folder](https://github.com/cheziman/My_Projects/tree/main/Product_Range_Analysis/images).
+a short explanation and a couple more graphs can be seen in the [images" folder](https://github.com/cheziman/My_Projects/tree/main/Product_Range_Analysis/images).
 
 ![prod_rev-quant_dist.jpeg](images/prod_rev-quant_dist.jpeg)
 
