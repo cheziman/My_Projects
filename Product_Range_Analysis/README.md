@@ -17,7 +17,7 @@ The goal is to perform a prodocut range analysis on the data following the decom
 And more and more
 
 # Favorite graph taken from the project
-a short explanation and a couple more graphs can be seen in the "images" folder
+a short explanation and a couple more graphs can be seen in the ["images" folder](https://github.com/cheziman/My_Projects/tree/main/Product_Range_Analysis/images).
 
 ![prod_rev-quant_dist.jpeg](images/prod_rev-quant_dist.jpeg)
 
