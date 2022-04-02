@@ -16,7 +16,7 @@ This project is pretty straight forward - the data is already prepared to be use
   - Calculating churn rate
 
 # Favorite graph
-![heatmap_cluster_feat_mean_normalized.JPG](heatmap_cluster_feat_mean_normalized.JPG)
+![heatmap_cluster_feat_mean_normalized.JPG](images/heatmap_cluster_feat_mean_normalized.JPG)
 
 
 # Conclusions
