@@ -2,11 +2,11 @@
 
 [click here to open the notebook using nbviewer (recommended)](https://nbviewer.org/github/cheziman/My_Projects/blob/main/Forecasts_and_predictions/Forecast_and_prediction_Model_Fitness_proj.ipynb)
 
-# Introduction
+## Introduction
 In this project machine learning algorithm is used to predict churn rate for the gym's customers.
 both linear regression and random forest are employed to determine which is the best algorithm to do the job.
 
-# Project Summary
+## Project Summary and methods used
 This project is pretty straight forward - the data is already prepared to be used to predict churn rate, not much preprocessning needed.
 - 2 models were emplyed — **Linear Regression** and **Random Forest**, LR proved to be the better option, and in both LR and RF feature importance was more or less the same order.
 - **Clusters** were created using **Kmeans**, a **dendrogram** was created to help deciding how many clusters.
@@ -15,7 +15,7 @@ This project is pretty straight forward - the data is already prepared to be use
   - Feature distribution
   - Calculating churn rate
 
-# Favorite graph
+## Favorite graph
 This graph is a heatmap showing normalized (per feature) percentage of the cluster feature score.
 In each row the color of the heatmap suggests the feature score of a cluster in comparison with the other clusters (calculated between minimum value and maximum).
 
@@ -24,14 +24,14 @@ a short explanation and a couple more graphs can be seen in the "images" folder
 ![heatmap_cluster_feat_mean_normalized.JPG](images/heatmap_cluster_feat_mean_normalized.JPG)
 
 
-# Conclusions
+## Conclusions
 
-## EDA:
+### EDA:
 - Most of the users did not churn!
 - The data was ready to be analysed, no fixes or preprocessing were needed, with a minor exception of turning one of the features from float to int data type.
 - Most costumers have a month left in their contract, many of them also signed up for a monnth long plan.
 
-## Features:
+### Features:
 
 - These features seem to have a significant effect on whether users will churn:
     - **Partner:** It seems that it's a good idea to partner with companies, as the subscribers tend to churn less often. perhaps this is due to the discount they get. in this case special discount should be considered for other subscribers as well.
@@ -46,7 +46,7 @@ a short explanation and a couple more graphs can be seen in the "images" folder
 - These features seem to have little or no effect on whether users will churn:<br>
     **Gender, Near_Location**, and **Phone**.
     
-## Observations:
+### Observations:
 - Customers are less likely to churn if they:
     - Are a part of a partner program.
     - Signed up with the "bring a friend program".
