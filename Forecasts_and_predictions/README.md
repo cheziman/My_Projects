@@ -16,6 +16,11 @@ This project is pretty straight forward - the data is already prepared to be use
   - Calculating churn rate
 
 # Favorite graph
+This graph is a heatmap showing normalized (per feature) percentage of the cluster feature score.
+In each row the color of the heatmap suggests the feature score of a cluster in comparison with the other clusters (calculated between minimum value and maximum).
+
+a short explanation and a couple more graphs can be seen in the "images" folder
+
 ![heatmap_cluster_feat_mean_normalized.JPG](images/heatmap_cluster_feat_mean_normalized.JPG)
 
 
