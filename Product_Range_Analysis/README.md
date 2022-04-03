@@ -1,12 +1,12 @@
 # [Product Range Analysis - International Online Shop](https://nbviewer.org/github/cheziman/My_Projects/blob/main/Product_Range_Analysis/product_range_CheziM_p100.ipynb)
 [click here to open the notebook using nbviewer (recommended)](https://nbviewer.org/github/cheziman/My_Projects/blob/main/Product_Range_Analysis/product_range_CheziM_p100.ipynb)
 
-# Description:
+# Description
 This project is part of a final project to the Practicum100 Data analysis course by Yandex.
 The project is about product range analysis of a large ECommerce service.
 The goal is to perform a prodocut range analysis on the data following the decompostion (listed in the notebook).
 
-## Some of the methods used in the project:
+## Some of the methods used in the project
 - Statistical testing (Mann Whitney in this case).
 - Apriory (association rule for market basket analysis - finding combinations of same items in an invoice).
 - Regex / string manipulation.
@@ -21,7 +21,7 @@ And more and more
 - ARPU stands for average revenue per unit (avg price), the bigger the dot the larger the price.
 - Category is resembled by color.
 
-a short explanation and a couple more graphs can be seen in the [images" folder](https://github.com/cheziman/My_Projects/tree/main/Product_Range_Analysis/images).
+a short explanation and a couple more graphs can be seen in the [images folder](https://github.com/cheziman/My_Projects/tree/main/Product_Range_Analysis/images).
 
 ![prod_rev-quant_dist.jpeg](images/prod_rev-quant_dist.jpeg)
 
