@@ -15,9 +15,9 @@ Investigate user behavior for the company's app, and decide wether the experimen
 
 ## Favorite graph
 This graph is an event funnel of how many users interacted with each of the event screens, split into the different test and control groups
-- It shows the different group numbers in each screen are very similar
+- It shows the different group numbers in each screen are very similar.
 - Almost 50% reached the `purchase complete` screen!
-- It's both interesting and disturbing to find that there's a huge drop of users from the main screen to the other screens
+- It's both interesting and disturbing to find that there's a huge drop of users from the main screen to the other screens.
 
 a short explanation and a couple more graphs can be seen in the [images folder](https://github.com/cheziman/My_Projects/tree/main/User_behaviour_AAB_test/images).
 
