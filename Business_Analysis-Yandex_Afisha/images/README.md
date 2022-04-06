@@ -20,6 +20,14 @@ This graph shows the retention rate per cohort in monthly liftime.
 ### Ad sources ROMI
 This is a pie showing the return on marketing investment per ad source.
 
-![sourcesROMI.JPG](sourcesROMI.JPG)
+![adsourcesROMI.JPG](adsourcesROMI.JPG)
 
 ---
+
+### Monthly CAC per source
+This is a lineplot showing the customer aquisition cost for each ad source.
+- The black dotted line resembles the total average of all sources combined.
+
+![CohortCAC.JPG](CohortCAC.JPG)
+
+
