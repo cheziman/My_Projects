@@ -1,5 +1,5 @@
 # A few graphs from the project
-The full graphs and conclusions can be seen in the notebook.
+The full graphs and conclusions can be seen in the [notebook](https://nbviewer.org/github/cheziman/My_Projects/blob/d4b8fb10645e030a4cf8f6e69ec4853a1c259b6e/AB_Analysis_and_Hypo_Prioritization/AB_Analysis_and_Hypo_Prioritization.ipynb).
 
 ### Hypotheses RICE / ICE score comparison
 This graph is a comparison of RICE and ICE scores for different hypotheses (represented by numbers) 
