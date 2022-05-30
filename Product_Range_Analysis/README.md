@@ -2,9 +2,8 @@
 [click here to open the notebook using nbviewer (recommended)](https://nbviewer.org/github/cheziman/My_Projects/blob/main/Product_Range_Analysis/product_range_CheziM_p100.ipynb)
 
 # Description
-This project is part of a final project to the Practicum100 Data analysis course by Yandex.
-The project is about product range analysis of a large ECommerce service.
-The goal is to perform a prodocut range analysis on the data following the decompostion (listed in the notebook).
+This project is a product range analysis of a large ECommerce service, it is the main part of the final project to the Practicum100 Data analysis program by Yandex.
+The goal is to perform a freestyle prodocut range analysis on the data.
 
 ## Some of the methods used in the project
 - Statistical testing (Mann Whitney in this case).
@@ -145,3 +144,8 @@ This conclusion is based on the following:
     - These product prices range fro 0.42 to 29.95, while most product prices are between 1 and 3.
 - As many as 545 products had a total revenue of less than 50.
     - First place in hall of shame is "Cushion pads" with total of 3 sold units for 0.001 each.
+
+
+
+
+### [click here to open the full notebook using nbviewer (recommended)](https://nbviewer.org/github/cheziman/My_Projects/blob/main/Product_Range_Analysis/product_range_CheziM_p100.ipynb)
