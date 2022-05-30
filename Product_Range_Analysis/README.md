@@ -148,4 +148,4 @@ This conclusion is based on the following:
 
 
 
-### [click here to open the full notebook using nbviewer (recommended)](https://nbviewer.org/github/cheziman/My_Projects/blob/main/Product_Range_Analysis/product_range_CheziM_p100.ipynb)
+## [click here to open the full notebook using nbviewer (recommended)](https://nbviewer.org/github/cheziman/My_Projects/blob/main/Product_Range_Analysis/product_range_CheziM_p100.ipynb)
