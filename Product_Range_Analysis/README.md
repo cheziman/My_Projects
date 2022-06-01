@@ -1,5 +1,7 @@
 # [Product Range Analysis - International Online Shop](https://nbviewer.org/github/cheziman/My_Projects/blob/main/Product_Range_Analysis/product_range_CheziM_p100.ipynb)
-[click here to open the notebook using nbviewer (recommended)](https://nbviewer.org/github/cheziman/My_Projects/blob/main/Product_Range_Analysis/product_range_CheziM_p100.ipynb)
+[Project's notebook - click here to open using nbviewer (recommended)](https://nbviewer.org/github/cheziman/My_Projects/blob/main/Product_Range_Analysis/product_range_CheziM_p100.ipynb)
+
+[Tableau dashboard - click here to see the dashboard on Tableau public](https://public.tableau.com/app/profile/chezi6122/viz/Practicum100Productrangedashboard/Practicum100Productrangedashboard_CheziMana)
 
 # Description
 This project is a product range analysis of a large ECommerce service, it is the main part of the final project to the Practicum100 Data analysis program by Yandex.
