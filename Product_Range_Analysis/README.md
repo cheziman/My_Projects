@@ -5,7 +5,7 @@
 
 # Description
 This project is a product range analysis of a large ECommerce service, it is the main part of the final project to the Practicum100 Data analysis program by Yandex.
-The goal is to perform a freestyle prodocut range analysis on the data.
+The goal is to perform a freestyle product range analysis on the data.
 
 ## Some of the methods used in the project
 - Statistical testing (Mann Whitney in this case).
