@@ -1,5 +1,5 @@
-# [User Behaviour analysis and A/A/B testing](https://nbviewer.org/github/cheziman/My_Projects/blob/main/User_behaviour_AAB_test/User_behaviour_AAB_testing.ipynb)
-[click here to open the notebook using nbviewer (recommended)](https://nbviewer.org/github/cheziman/My_Projects/blob/main/User_behaviour_AAB_test/User_behaviour_AAB_testing.ipynb)
+# [User Behaviour analysis and A/A/B testing](https://nbviewer.org/github/cheziman/My_Projects/blob/173ec1d66d3c13bf1d45a9f172db0097385b5db4/User_behaviour_AAB_test/AB_Analysis_and_Hypo_Prioritization.ipynb)
+[click here to open the notebook using nbviewer (recommended)](https://nbviewer.org/github/cheziman/My_Projects/blob/173ec1d66d3c13bf1d45a9f172db0097385b5db4/User_behaviour_AAB_test/AB_Analysis_and_Hypo_Prioritization.ipynb)
 
 ## Description
 This project is about running and analyzing the results of an A/A/B testing of a new font in the app of a startup company in the food product market.
