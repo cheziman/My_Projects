@@ -3,10 +3,10 @@
 # Description:
 
 This project is continuing and exmanining the work of a previous analyst who has launched an A/B test of a new recommendation system for an international online store. But then one clear day - in the middle of everything, he decided to quit and start a watermelon farm in brazil (!). 
-They left only the technical specifications and the test results
+They left only the technical specifications and the test results.
 
 # Favorite graph taken from the project
-a short explanation and a couple more graphs can be seen in the "images" folder
+a short explanation and a couple more graphs can be seen in the [images folder](https://github.com/cheziman/My_Projects/tree/main/AB_Testing_analysis/images)
 
 ![prod_rev-quant_dist.jpeg](images/daily_event_cnt.jpeg)
 
